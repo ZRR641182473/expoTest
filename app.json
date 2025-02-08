@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "test",
-    "slug": "test",
+    "name": "test-xhxvnqbkgnqz0oiztey5a",
+    "slug": "test-xhxvnqbkgnqz0oiztey5a",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -19,7 +19,7 @@
       "permissions": [
         "android.permission.CALL_PHONE"
       ],
-      "package": "com.zaaaaaaaa.test"
+      "package": "com.zaaaaaaaa.test-xhxvnqbkgnqz0oiztey5a"
     },
     "web": {
       "bundler": "metro",
@@ -46,7 +46,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "08a09da7-3a8a-4073-ade6-5fcbb8722820"
+        "projectId": "384aae2d-c675-45ad-8800-33f509afc5e9"
       }
     },
     "owner": "zaaaaaaaa"
