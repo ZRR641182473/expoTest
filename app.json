@@ -15,7 +15,11 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "permissions": [
+        "android.permission.CALL_PHONE"
+      ],
+      "package": "com.zaaaaaaaa.test"
     },
     "web": {
       "bundler": "metro",
@@ -36,6 +40,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "de567aab-5abd-46e5-89a8-20f2ac7c8d93"
+      }
+    },
+    "owner": "zaaaaaaaa"
   }
 }
